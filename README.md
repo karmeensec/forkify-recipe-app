@@ -91,6 +91,7 @@ To deploy this project run
 
 
 ## Screenshots
+![screencapture-forkify-v2-netlify-app-2022-12-21-22_16_13](https://user-images.githubusercontent.com/84046930/209004424-445260d0-26f6-42a1-a8b4-702d8687615d.png)
 
 
 
